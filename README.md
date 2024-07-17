@@ -1,4 +1,4 @@
 
 # TestesUnitarios
-"Atividade de testes unitários criada a partir do curso feito na Udemy com o objetivo de praticar e adquirir conhecimento sobre os testes."
+"Atividade com o intuito de praticar a execução dos testes unitários utilizando Junit"
 
